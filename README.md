@@ -37,3 +37,11 @@
 - [프로그래머스 - 비밀 코드 해독](https://github.com/connieya/coding-test-challenge/pull/4) - start 파라미터를 사용한 조합 생성
 
 ---
+
+## 🎯 그리디 (Greedy)
+
+### 간격 스케줄링 (Interval Scheduling)
+
+- [프로그래머스 - 요격 시스템](https://github.com/connieya/coding-test-challenge/pull/5) - 정렬 후 끝점 기준으로 겹치는 구간 처리
+
+---
