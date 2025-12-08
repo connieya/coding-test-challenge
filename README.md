@@ -44,5 +44,6 @@
 ### 간격 스케줄링 (Interval Scheduling)
 
 - [프로그래머스 - 요격 시스템](https://github.com/connieya/coding-test-challenge/pull/5) - 정렬 후 끝점 기준으로 겹치는 구간 처리
+- [프로그래머스 - 호텔 대실](https://github.com/connieya/coding-test-challenge/pull/7) - 시작 시각 정렬 후 종료시각+청소시간으로 최소 객실 계산
 
 ---
