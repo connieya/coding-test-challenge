@@ -23,6 +23,7 @@
 - [프로그래머스 - 수식 최대화](https://github.com/connieya/coding-test-challenge/pull/3) - 연산자 우선순위의 모든 순열 탐색
 - [프로그래머스 - 비밀 코드 해독](https://github.com/connieya/coding-test-challenge/pull/4) - 5개 숫자 조합의 모든 경우 탐색
 - [프로그래머스 - 바탕 화면 정리](https://github.com/connieya/coding-test-challenge/pull/6) - 모든 칸을 순회하며 파일 위치의 최소/최대 좌표 탐색
+- [프로그래머스 - 광물 캐기](https://github.com/connieya/coding-test-challenge/pull/8) - 곡괭이 선택 순서를 DFS로 탐색해 최소 피로도 계산
 
 ---
 
@@ -31,6 +32,7 @@
 ### 상태 공간 탐색
 
 - [프로그래머스 - 완전 범죄](https://github.com/connieya/coding-test-challenge/pull/1) - 두 가지 선택지가 있는 DFS
+- [프로그래머스 - 광물 캐기](https://github.com/connieya/coding-test-challenge/pull/8) - 남은 곡괭이를 선택하며 최소 피로도를 찾는 DFS
 
 ### 순열/조합 생성
 
