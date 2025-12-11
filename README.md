@@ -53,3 +53,11 @@
 - [프로그래머스 - 서버 증설](https://github.com/connieya/coding-test-challenge/pull/9) - 만료 시간 관리 큐로 운영 중 서버를 유지하며 부족분만 증설
 
 ---
+
+## 🔁 시뮬레이션 (Simulation)
+
+### 이동 시뮬레이션
+
+- [프로그래머스 - 충돌 위험 찾기](https://github.com/connieya/coding-test-challenge/pull/10) - 시간+좌표 맵으로 동선 충돌 횟수 시뮬레이션
+
+---
