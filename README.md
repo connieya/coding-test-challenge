@@ -59,9 +59,18 @@
 ### 이동 시뮬레이션
 
 - [프로그래머스 - 충돌 위험 찾기](https://github.com/connieya/coding-test-challenge/pull/10) - 시간+좌표 맵으로 동선 충돌 횟수 시뮬레이션
+- [프로그래머스 - 리코쳇 로봇](https://github.com/connieya/coding-test-challenge/pull/12) - BFS로 장애물까지 미끄러지는 최단 경로 탐색
 
 ### 스택 기반 시뮬레이션
 
 - [프로그래머스 - 과제 진행하기](https://github.com/connieya/coding-test-challenge/pull/11) - 스택으로 중단된 과제를 관리하며 시간 순서대로 처리
+
+---
+
+## 🔍 그래프 탐색 (Graph Traversal)
+
+### BFS (너비 우선 탐색)
+
+- [프로그래머스 - 리코쳇 로봇](https://github.com/connieya/coding-test-challenge/pull/12) - Queue를 사용한 최단 경로 탐색
 
 ---
