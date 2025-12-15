@@ -72,5 +72,6 @@
 ### BFS (너비 우선 탐색)
 
 - [프로그래머스 - 리코쳇 로봇](https://github.com/connieya/coding-test-challenge/pull/12) - Queue를 사용한 최단 경로 탐색
+- [프로그래머스 - 미로 탈출](https://github.com/connieya/coding-test-challenge/pull/13) - 2차원 배열로 거리를 저장하며 최단 경로 탐색
 
 ---
