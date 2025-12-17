@@ -65,6 +65,10 @@
 
 - [프로그래머스 - 과제 진행하기](https://github.com/connieya/coding-test-challenge/pull/11) - 스택으로 중단된 과제를 관리하며 시간 순서대로 처리
 
+### 시간 기반 시뮬레이션
+
+- [프로그래머스 - 붕대 감기](https://github.com/connieya/coding-test-challenge/pull/15) - 공격 시간 순서대로 체력 회복과 공격을 시뮬레이션
+
 ---
 
 ## 🔍 그래프 탐색 (Graph Traversal)
