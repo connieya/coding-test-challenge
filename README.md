@@ -80,6 +80,6 @@
 
 ### 비율/관계식
 
-- [프로그래머스 - 시소 짝꿍](ttps://github.com/connieya/coding-test-challenge/pull/14) - 토크 균형 방정식(w1×d1 = w2×d2)과 비율(1:1, 1:2, 2:3, 3:4)을 활용한 문제
+- [프로그래머스 - 시소 짝꿍](https://github.com/connieya/coding-test-challenge/pull/14) - 토크 균형 방정식(w1×d1 = w2×d2)과 비율(1:1, 1:2, 2:3, 3:4)을 활용한 문제
 
 ---
