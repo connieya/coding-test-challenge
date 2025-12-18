@@ -54,6 +54,14 @@
 
 ---
 
+## 💾 동적 프로그래밍 (Dynamic Programming)
+
+### 2D DP
+
+- [프로그래머스 - 공원](https://github.com/connieya/coding-test-challenge/pull/16) - 각 위치에서 만들 수 있는 가장 큰 정사각형 크기를 DP로 계산
+
+---
+
 ## 🔁 시뮬레이션 (Simulation)
 
 ### 이동 시뮬레이션
