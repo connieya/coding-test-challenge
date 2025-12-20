@@ -87,6 +87,10 @@
 - [프로그래머스 - 리코쳇 로봇](https://github.com/connieya/coding-test-challenge/pull/12) - Queue를 사용한 최단 경로 탐색
 - [프로그래머스 - 미로 탈출](https://github.com/connieya/coding-test-challenge/pull/13) - 2차원 배열로 거리를 저장하며 최단 경로 탐색
 
+### Union-Find (Disjoint Set Union)
+
+- [프로그래머스 - 혼자 놀기의 달인](https://github.com/connieya/coding-test-challenge/pull/18) - Union-Find로 상자 그룹을 찾고 가장 큰 두 그룹의 크기를 곱하여 최고 점수 계산
+
 ---
 
 ## 🔢 수학 (Mathematics)
