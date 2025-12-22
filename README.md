@@ -79,6 +79,10 @@
 - [프로그래머스 - 붕대 감기](https://github.com/connieya/coding-test-challenge/pull/15) - 공격 시간 순서대로 체력 회복과 공격을 시뮬레이션
 - [프로그래머스 - 동영상 재생기](https://github.com/connieya/coding-test-challenge/pull/17) - 명령어를 순차 처리하며 재생 위치를 관리하고 오프닝 구간 자동 건너뛰기
 
+### 해시맵 기반 시뮬레이션
+
+- [프로그래머스 - 달리기 경주](https://github.com/connieya/coding-test-challenge/pull/20) - HashMap으로 선수 등수를 관리하며 추월 시뮬레이션
+
 ---
 
 ## 🔍 그래프 탐색 (Graph Traversal)
