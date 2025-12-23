@@ -53,6 +53,10 @@
 
 - [프로그래머스 - 서버 증설](https://github.com/connieya/coding-test-challenge/pull/9) - 만료 시간 관리 큐로 운영 중 서버를 유지하며 부족분만 증설
 
+### 최적 경로 찾기
+
+- [프로그래머스 - 조이스틱](src/main/java/programmers/day21.md) - 각 알파벳 변경 최소 조작과 연속된 'A'를 건너뛰는 최적 커서 이동 경로 계산
+
 ---
 
 ## 💾 동적 프로그래밍 (Dynamic Programming)
