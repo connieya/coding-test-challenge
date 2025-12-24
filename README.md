@@ -109,3 +109,11 @@
 - [프로그래머스 - 시소 짝꿍](https://github.com/connieya/coding-test-challenge/pull/14) - 토크 균형 방정식(w1×d1 = w2×d2)과 비율(1:1, 1:2, 2:3, 3:4)을 활용한 문제
 
 ---
+
+## 🔁 재귀/분할 정복 (Recursion/Divide and Conquer)
+
+### 문자열 처리
+
+- [프로그래머스 - 괄호 변환](https://github.com/connieya/coding-test-challenge/pull/22) - 균형잡힌 괄호 문자열을 재귀적으로 분리하여 올바른 괄호 문자열로 변환
+
+---
