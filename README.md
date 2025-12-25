@@ -108,6 +108,10 @@
 
 - [프로그래머스 - 시소 짝꿍](https://github.com/connieya/coding-test-challenge/pull/14) - 토크 균형 방정식(w1×d1 = w2×d2)과 비율(1:1, 1:2, 2:3, 3:4)을 활용한 문제
 
+### 기하학/최대공약수
+
+- [프로그래머스 - 멀쩡한 사각형](src/main/java/programmers/멀쩡한사각형.md) - 대각선이 지나가는 정사각형 개수를 최대공약수로 계산하여 사용 가능한 정사각형 개수 구하기
+
 ---
 
 ## 🔁 재귀/분할 정복 (Recursion/Divide and Conquer)
