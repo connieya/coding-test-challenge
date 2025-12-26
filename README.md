@@ -39,6 +39,7 @@
 - [프로그래머스 - 수식 최대화](https://github.com/connieya/coding-test-challenge/pull/3) - visited 배열을 사용한 연산자 우선순위 순열 생성
 - [프로그래머스 - 비밀 코드 해독](https://github.com/connieya/coding-test-challenge/pull/4) - start 파라미터를 사용한 조합 생성
 - [프로그래머스 - 양궁대회](https://github.com/connieya/coding-test-challenge/pull/19) - 각 점수에 대해 남은 화살을 0개부터 남은 화살까지 모든 경우를 시도하는 완전 탐색으로 최대 점수 차이 계산
+- [프로그래머스 - 메뉴 리뉴얼](https://github.com/connieya/coding-test-challenge/pull/24) - DFS로 모든 조합을 생성하고 HashMap으로 주문 횟수를 카운팅하여 각 길이별 최대 주문 조합 찾기
 
 ---
 
