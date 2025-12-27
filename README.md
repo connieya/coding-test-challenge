@@ -33,6 +33,7 @@
 
 - [프로그래머스 - 완전 범죄](https://github.com/connieya/coding-test-challenge/pull/1) - 두 가지 선택지가 있는 DFS
 - [프로그래머스 - 광물 캐기](https://github.com/connieya/coding-test-challenge/pull/8) - 남은 곡괭이를 선택하며 최소 피로도를 찾는 DFS
+- [프로그래머스 - N-Queen](https://github.com/connieya/coding-test-challenge/pull/25) - 각 행에 퀸을 배치하며 세로와 대각선 방향 공격 가능 여부를 체크하는 백트래킹
 
 ### 순열/조합 생성
 
