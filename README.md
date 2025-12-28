@@ -122,4 +122,8 @@
 
 - [프로그래머스 - 괄호 변환](https://github.com/connieya/coding-test-challenge/pull/22) - 균형잡힌 괄호 문자열을 재귀적으로 분리하여 올바른 괄호 문자열로 변환
 
+### 하노이 탑
+
+- [프로그래머스 - 하노이 탑](src/main/java/programmers/하노이탑.md) - n개의 원판을 3단계로 분해하여 재귀적으로 최소 이동 방법 구하기
+
 ---
