@@ -112,7 +112,7 @@
 
 ### 기하학/최대공약수
 
-- [프로그래머스 - 멀쩡한 사각형](src/main/java/programmers/멀쩡한사각형.md) - 대각선이 지나가는 정사각형 개수를 최대공약수로 계산하여 사용 가능한 정사각형 개수 구하기
+- [프로그래머스 - 멀쩡한 사각형](https://github.com/connieya/coding-test-challenge/pull/23) - 대각선이 지나가는 정사각형 개수를 최대공약수로 계산하여 사용 가능한 정사각형 개수 구하기
 
 ---
 
@@ -124,6 +124,6 @@
 
 ### 하노이 탑
 
-- [프로그래머스 - 하노이 탑](src/main/java/programmers/하노이탑.md) - n개의 원판을 3단계로 분해하여 재귀적으로 최소 이동 방법 구하기
+- [프로그래머스 - 하노이 탑](https://github.com/connieya/coding-test-challenge/pull/26) - n개의 원판을 3단계로 분해하여 재귀적으로 최소 이동 방법 구하기
 
 ---
