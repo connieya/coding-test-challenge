@@ -89,6 +89,10 @@
 
 - [프로그래머스 - 달리기 경주](https://github.com/connieya/coding-test-challenge/pull/20) - HashMap으로 선수 등수를 관리하며 추월 시뮬레이션
 
+### 거리 계산 시뮬레이션
+
+- [프로그래머스 - 키패드 누르기](https://github.com/connieya/coding-test-challenge/pull/27) - 맨해튼 거리로 가운데 열 숫자 입력 시 더 가까운 손 선택
+
 ---
 
 ## 🔍 그래프 탐색 (Graph Traversal)
