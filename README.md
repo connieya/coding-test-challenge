@@ -88,6 +88,7 @@
 ### 해시맵 기반 시뮬레이션
 
 - [프로그래머스 - 달리기 경주](https://github.com/connieya/coding-test-challenge/pull/20) - HashMap으로 선수 등수를 관리하며 추월 시뮬레이션
+- [프로그래머스 - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) - HashMap으로 각 성격 유형 점수를 관리하며 최종 유형 결정
 
 ### 거리 계산 시뮬레이션
 
